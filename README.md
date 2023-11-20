@@ -7,7 +7,6 @@
 - [JDialog](https://github.com/piedroalex/aula_javaswing_jdialog)
 - [JScrollPane](https://github.com/piedroalex/aula_javaswing_jscrollpane)
 - [JMenuBar](https://github.com/piedroalex/aula_javaswing_jmenubar)
-- 
 - [BorderLayout](https://github.com/piedroalex/aula_javaswing_borderlayout)
 - [BoxLayout](https://github.com/piedroalex/aula_javaswing_boxlayout)
 - [FlowLayout](https://github.com/piedroalex/aula_javaswing_flowlayout)
